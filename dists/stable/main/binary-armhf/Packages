@@ -1,6 +1,22 @@
 Package: plexmediaserver
 Priority: extra
 Section: video
+Installed-Size: 295408
+Maintainer: Plex Inc <support@plex.tv>
+Architecture: armhf
+Version: 1.19.3.2831-181d9145d
+Filename: pool/main/p/plexmediaserver/plexmediaserver_1.19.3.2831-181d9145d_armhf.deb
+Size: 70660418
+MD5sum: f98bab93c8cb6b4afbfa7dc9ff2e390c
+SHA1: 63cf78c22b99ef35a77f09fbba4805ff042845f7
+SHA256: 05382cca9ed51ee56bb5ef2ab6d68242bba5791ac60bb95420f98e03d053b941
+SHA512: 80258cd0d7008e03ef7ab07313b404f6bc6c9db7bf64ed8fb5ef8c4cec705e281d0a73891fe77b039979dd267ec3a3741e6471a9ce27106c3e461e5c5730bc26
+Description: Plex organizes all of your personal media so you can easily access and enjoy it.
+Homepage: https://plex.tv
+
+Package: plexmediaserver
+Priority: extra
+Section: video
 Installed-Size: 295352
 Maintainer: Plex Inc <support@plex.tv>
 Architecture: armhf
