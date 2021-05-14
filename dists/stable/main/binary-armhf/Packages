@@ -4,6 +4,23 @@ Section: video
 Installed-Size: 254268
 Maintainer: Plex Inc <support@plex.tv>
 Architecture: armhf
+Version: 1.22.3.4523-d0ce30438
+Recommends: ocl-icd-libopencl1, beignet-opencl-icd
+Filename: pool/main/p/plexmediaserver/plexmediaserver_1.22.3.4523-d0ce30438_armhf.deb
+Size: 76192860
+MD5sum: fe807647d59c367289b5db8182bb8cad
+SHA1: 6f89cb3db79b1532b5327153cd1d76777ee3f6df
+SHA256: 35198536515c922a0f4c225950d9f15a6bd8549d1c6d542f7677cfd7234e1bab
+SHA512: e0b93002f60e776ac983de8b065fdfc83f28c764dc80b540a89c1c436a4f6ecb860b6c9bf83cd999d457e75a6b9fab8b72b01477873cbe36ddd4c7de297d19bd
+Description: Plex organizes all of your personal media so you can easily access and enjoy it.
+Homepage: https://plex.tv
+
+Package: plexmediaserver
+Priority: extra
+Section: video
+Installed-Size: 254268
+Maintainer: Plex Inc <support@plex.tv>
+Architecture: armhf
 Version: 1.22.3.4392-d7c624def
 Recommends: ocl-icd-libopencl1, beignet-opencl-icd
 Filename: pool/main/p/plexmediaserver/plexmediaserver_1.22.3.4392-d7c624def_armhf.deb
